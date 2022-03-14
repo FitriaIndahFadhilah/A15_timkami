@@ -31,6 +31,14 @@
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
   /*Header Content*/
+    .header-right{
+ 		display: none;
+ 	}
+
+ 	.menu-icon{
+    	display: block;
+    	float: right;
+  	}
   
    /*Main Content*/
    .banner{
